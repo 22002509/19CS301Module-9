@@ -107,7 +107,8 @@ for row in transpose_matrix:
 
 ```
 ### Output:
-![image](https://github.com/user-attachments/assets/4e0eed13-2ce1-4bb6-bfd4-b36e7a91b1cf)
+![image](https://github.com/user-attachments/assets/afdac401-be44-48fd-90d3-34740bd8854b)
+
 
 ### Result: 
 Thus, the given program is implemented and executed successfully .
@@ -153,7 +154,8 @@ else:
 ```
 ### Output:
 
-![image](https://github.com/user-attachments/assets/d1347beb-db9e-43f0-a854-803a0eaf8ced)
+![image](https://github.com/user-attachments/assets/de5d9f68-b1a3-4001-917e-76f37937e682)
+
 
 
 ### Result: 
