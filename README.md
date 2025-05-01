@@ -13,6 +13,8 @@ To add two matrices of the same size (with user-specified rows and columns) and 
 
 ### Program:
 ```
+#Reg.NO:212222040120
+#Name:PRASANNA R
 rows = int(input())
 cols = int(input())
 
@@ -63,6 +65,8 @@ To write a Python class program that generates all even numbers between 200 and 
 
 ### Program:
 ```
+#Reg.NO:212222040120
+#Name:PRASANNA R
 class EvenNumberGenerator:
     def generate_even_numbers(self):
         even_numbers = [num for num in range(200, 301) if num % 2 == 0]
@@ -90,6 +94,8 @@ To write a Python program to find the transpose of a matrix using list comprehen
 
 ### Program:
 ```
+#Reg.NO:212222040120
+#Name:PRASANNA R
 rows = int(input("Enter the number of rows: "))
 cols = int(input("Enter the number of columns: "))
 
@@ -130,6 +136,8 @@ To write a Python program to check whether the given matrix is a Toeplitz matrix
 
 ### Program:
 ```
+#Reg.NO:212222040120
+#Name:PRASANNA R
 rows = int(input("Enter the number of rows: "))
 cols = int(input("Enter the number of columns: "))
 
